@@ -1,0 +1,38 @@
+{
+    "101": {
+        "name": "asmaa",
+        "age": 23,
+        "department": "SC",
+        "grades": {}
+    },
+    "100": {
+        "name": "aisha",
+        "age": 21,
+        "department": "CS",
+        "grades": {}
+    },
+    "405": {
+        "name": "a'isha",
+        "age": 21,
+        "department": "AI",
+        "grades": {}
+    },
+    "77": {
+        "name": "iii",
+        "age": 44,
+        "department": "IS",
+        "grades": {}
+    },
+    "44": {
+        "name": "aaa",
+        "age": 45,
+        "department": "IS",
+        "grades": {}
+    },
+    "12": {
+        "name": "ddd",
+        "age": 4,
+        "department": "SC",
+        "grades": {}
+    }
+}
